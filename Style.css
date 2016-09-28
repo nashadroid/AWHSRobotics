@@ -1,0 +1,118 @@
+	body {
+		
+		background-image: url("BlueMobo.jpg");
+		background-attachment:fixed;
+		background-position: center top; 
+		//background-color: #cccccc;
+		color: white;
+		text-align: center;
+		font-size: 30px;
+		font-size: 1.5em;
+		font-family: Arial;
+		
+	}
+	
+	/******TOP HEADER******/
+	
+	h1.header {
+		
+		/* REMEMBER TO IMPLIMENT HOVER */
+		margin: auto;
+		font-family: "Arial Black", Gadget, sans-serif;
+		font-size: 2.5em;
+		border: 2px solid black;
+		border-bottom: none;
+		//border-radius: 17px;
+		//background-color: navy;
+		background: rgba(0, 0, 255, 0.3);
+		//height: 100px;
+		//max-width: 80%;
+		//max-width: 15em;
+		width: 15em;
+		//padding: 10px
+		//opacity: 0.1;
+		//filter: alpha(opacity=50);
+		overflow: hidden;
+	}
+	
+	//h1.header:hover {
+					
+		background: rgba(25, 25, 255, .5);
+		
+	}
+	
+	/******NAVIGATION BAR******/
+	
+	ul {
+		
+		font-family: "Century Gothic";
+		font-size: .8em;
+		list-style-type: none;
+		margin: auto;
+		//margin-top: 15px;
+		padding-left : 300px ;
+		padding-right : 300px;
+		//padding-top : 4px;
+		//padding-bottom : 4px;
+		overflow: hidden;
+		background-color: rgba(0, 0, 0, .6);
+		width: 304px;
+		
+	}
+	
+	li{
+		
+		display:inline-block;
+		margin: auto;
+	
+	}
+	
+	li a {
+	
+		display: block;
+		color: white;
+		text-align: center;
+		padding: 5px 15px;
+		text-decoration: none;
+		//border-top: 4px solid rgba(0, 0, 200, .6);
+		
+	}
+	
+	ul:hover {
+		
+		background-color: rgba(0, 0, 0, 1);
+		
+	}
+		
+	li a:hover{
+	
+		//color: black;
+		background-color: rgba(105, 105, 105, 1);
+		//border: 2px solid green;
+		border-bottom: 4px solid rgba(105, 105, 105, 1);
+		//border-top: 4px solid rgba(105, 105, 105, 1);
+	}
+	
+	li a.current {
+		
+		border-bottom: 4px solid rgba(25, 25, 200, .75);
+	}
+	
+	/******Content******/
+	
+	p{
+		
+		font-family: "Century Gothic";
+		color: white;
+		background-color: rgba(5, 5, 5, .5);
+		padding: 20px;
+		width: 600px;
+		margin: auto;
+		margin-top: 25px;
+		
+	}
+	
+	
+	
+	
+		
