@@ -27,16 +27,8 @@ h1.header {
 	font-size: 2.5em;
 	border: 2px solid black;
 	border-bottom: none;
-	//border-radius: 17px;
-	//background-color: navy;
 	background: rgba(0, 0, 255, 0.3);
-	//height: 100px;
-	//max-width: 80%;
-	//max-width: 15em;
 	width: 15em;
-	//padding: 10px
-	//opacity: 0.1;
-	//filter: alpha(opacity=50);
 	overflow: hidden;
 }
 
@@ -116,10 +108,15 @@ p{
 
 	background-color: rgba(5, 5, 5, .5);
 	padding: 20px;
-	width: 600px;
+	max-width: 600px;
 	margin: auto;
 	margin-top: 25px;
 
+}
+
+.images{
+	width:80%;
+	height:60%;
 }
 
 
