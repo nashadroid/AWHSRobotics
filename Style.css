@@ -12,6 +12,10 @@
 		
 	}
 	
+	<style>
+	@import 'https://fonts.googleapis.com/css?family=Roboto';
+	</style>
+	
 	/******TOP HEADER******/
 	
 	h1.header {
@@ -109,7 +113,7 @@
 		width: 600px;
 		margin: auto;
 		margin-top: 25px;
-		
+		font-style: Light;
 	}
 	
 	
