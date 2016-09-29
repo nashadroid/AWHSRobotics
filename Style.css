@@ -27,7 +27,7 @@ h1.header {
 	border: 2px solid black;
 	border-bottom: none;
 	background: rgba(0, 0, 255, 0.3);
-	width: 15em;
+	max-width: 900px;
 	overflow: hidden;
 }
 
@@ -47,7 +47,7 @@ ul {
 	margin: auto;
 	overflow: hidden;
 	background-color: rgba(0, 0, 0, .6);
-	width: 304px;
+	width: 900px;
 
 }
 
