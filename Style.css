@@ -50,10 +50,7 @@ ul {
 	margin: auto;
 	overflow: hidden;
 	background-color: rgba(0, 0, 0, .6);
-	max-width: 900px;
-	border: 2px solid black;
-	border-top: none;
-
+	max-width: 904px;
 }
 
 li{
