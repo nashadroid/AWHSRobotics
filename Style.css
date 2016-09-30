@@ -127,6 +127,11 @@ p{
 	max-width: 600px;
 	margin: auto;
 	margin-top: 0px;
+	font-family: 'Roboto', sans-serif;
+	font-weight: 300;
+	color: white;
+	text-align: justify;
+	margin-bottom: 0;
 	transition:all 0.3s ease-in-out;
 	-moz-transition:all 0.3s ease-in-out;
 	-ms-transition:all 0.3s ease-in-out;
