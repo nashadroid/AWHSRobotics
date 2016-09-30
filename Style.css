@@ -42,6 +42,8 @@ h1.header {
 /******NAVIGATION BAR******/
 
 ul {
+	position: fixed;
+ 	top: 0px;
 	margin: 0;
 	padding: 0;
 	font-family: 'Roboto', sans-serif;
