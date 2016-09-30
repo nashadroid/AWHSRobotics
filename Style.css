@@ -119,6 +119,28 @@ p{
     	background-color: rgba(5, 5, 5, .9);
 
 }
+
+.blackboxtext{
+	
+	background-color: rgba(5, 5, 5, .8);
+	padding: 20px;
+	max-width: 600px;
+	margin: auto;
+	margin-top: 0px;
+	transition:all 0.3s ease-in-out;
+	-moz-transition:all 0.3s ease-in-out;
+	-ms-transition:all 0.3s ease-in-out;
+	-o-transition:all 0.3s ease-in-out;
+	-webkit-transition:all 0.3s ease-in-out;
+	
+}
+
+.blackboxtext:hover{
+
+    	background-color: rgba(5, 5, 5, .9);
+
+}
+
 .images{
 	width:100%;
 	height:75%;
