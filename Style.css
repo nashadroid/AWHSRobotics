@@ -124,5 +124,10 @@ p{
 	height:75%;
 }
 
-
-
+.desc{
+	font-family: 'Roboto', sans-serif;
+	font-weight: 300;
+	color: white;
+	text-align: center;
+	margin-bottom: 0;
+}
