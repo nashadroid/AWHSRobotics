@@ -74,10 +74,7 @@ li a {
 	padding: 5px 15px;
 	text-decoration: none;
 	//border-top: 4px solid rgba(0, 0, 200, .6);
-	-moz-transition:all 0.3s ease-in-out;
-	-ms-transition:all 0.3s ease-in-out;
-	-o-transition:all 0.3s ease-in-out;
-	-webkit-transition:all 0.3s ease-in-out;
+	
 
 }
 
