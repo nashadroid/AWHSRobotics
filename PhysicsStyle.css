@@ -11,10 +11,19 @@ body {
 	//background-color: #cccccc;
 	color: white;
 	text-align: center;
-	font-size: 30px;
+	font-size: 20px;
 	font-size: 1em;
 	font-family: Arial;
-	background-color: rgba(0, 0, 0, .6);
+	background-color: rgba(5, 5, 5, .5);
+	padding: 20px;
+	max-width: 600px;
+	margin: auto;
+	margin-top: 25px;
+	transition:all 0.3s ease-in-out;
+	-moz-transition:all 0.3s ease-in-out;
+	-ms-transition:all 0.3s ease-in-out;
+	-o-transition:all 0.3s ease-in-out;
+	-webkit-transition:all 0.3s ease-in-out;
 
 }
 /*
