@@ -1,2 +1,3 @@
 # nashadroid.github.io
-Page
+
+Outdated website that I built for my highschool robotics team.
